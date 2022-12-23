@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @akshit2004x 
+- 👋 Hi, I’m  AKSHIT AGGARWAL @akshit2004x .
+- My age is 19 , I live in New Delhi. 
+- I have completed my schooling From Hillwoods Academy(NEW DELHI) from CBSE board ,scored 85% in class 10th and 90% in class 12th.
 - I konw  c | c++ | Python | Javascript | Html | CSS | SQL .
 - 👀 I’m interested in Programming
 - My hobbies are 🕮 reading , 💻 coding and  playing (⚽ football , 🛼 Skating , 🏊 swimming) .
