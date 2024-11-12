@@ -8,7 +8,7 @@
 - 💞️ I’m looking to try new opportunities
 - 📫 You can reach me by my email : akshitaggarwal1602@gmail.com or by my linkedin profile www.linkedin.com/in/akshit-aggarwal-029606255
 - You can see my Growth on Leetcode https://leetcode.com/akshitaggarwal1602
-- Resume [link][https://drive.google.com/file/d/1479wFpb2LDUMENyu0Ht8O7xrP2dYT1AQ/view?usp=sharing]
+- Resume [link](https://drive.google.com/file/d/1479wFpb2LDUMENyu0Ht8O7xrP2dYT1AQ/view?usp=sharing)
 <!---
 akshit2004x/akshit2004x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
