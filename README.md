@@ -5,7 +5,7 @@
 - 👀 I’m interested in Programming
 - My hobbies are 🕮 reading , 💻 coding and  playing (⚽ football ,🏸Badminton , 🛼 Skating , 🏊 swimming) .
 - 🌱 I’m currently in 4th year of Btech : Kalinga Institute of Industrial Technology(KIIT,Bhubaneshwar Odisha) with a C.G.P.A : 8.94
-- 💞️ I’m looking to try new opportunities
+- I’m looking to try new opportunities
 - 📫 You can reach me by my email : akshitaggarwal1602@gmail.com or by my linkedin profile www.linkedin.com/in/akshit-aggarwal-029606255
 - You can see my Growth on Leetcode https://leetcode.com/akshitaggarwal1602
 - Resume [link](https://drive.google.com/file/d/1479wFpb2LDUMENyu0Ht8O7xrP2dYT1AQ/view?usp=sharing)
